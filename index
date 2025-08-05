@@ -6,7 +6,7 @@
   <body>
     <p>Repositorio de audios.</p>
     <audio controls>
-    <source src="https://github.com/curso-ilustracion-tarde/audioilustrados/blob/main/MAILL_CARPA_SUENOS_AUDIO_01_V01.mp3" type="audio/mpeg">
+    <source src="MAILL_CARPA_SUENOS_AUDIO_01_V01.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
     </audio>
   </body>
